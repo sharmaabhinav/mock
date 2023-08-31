@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "abhinav sharma",
+      "age": 32,
+      "income": 5000,
+      "address": "A-777 chandravardai nagar taragarh road ajmer, rajasthan"
+    },
+    {
+      "name": "kanika sharma",
+      "age": 24,
+      "income": 9000,
+      "address": "A-777 chandravardai nagar taragarh road ajmer, rajasthan"
+    },
+    {
+      "name": "ashok sharma",
+      "age": 62,
+      "income": 15000,
+      "address": "A-777 chandravardai nagar taragarh road ajmer, rajasthan"
+    }
+  ]
+}
+
